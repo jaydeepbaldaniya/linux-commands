@@ -90,5 +90,4 @@ $ netstat (all the port that are listening)
 $ htop (Display something like task manager, all processes,memory etc)
 $ kill processID (Kill any process using its id)
 $ Operators &(run command in background) &&(if success first then run second command), ||(if fail first command then run second command something like if else), |(use output of first command as input of second command),; (run both command irrespective of failures), >>(append output from one to another)
-$ 
 ```
